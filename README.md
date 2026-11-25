@@ -1,6 +1,6 @@
 # floci-aws-lab
 
-Hands-on AWS practice for backend devs, with no AWS account needed. A Spring Boot order service (Java 21, AWS SDK v2) runs against [Floci](https://github.com/floci-io/floci), an open-source local AWS emulator.
+Hands-on AWS practice for backend devs, with no AWS account needed. A Spring Boot order service (Java 17, Spring Boot 4, AWS SDK v2) runs against [Floci](https://github.com/floci-io/floci), an open-source local AWS emulator.
 
 ## Quick start
 
